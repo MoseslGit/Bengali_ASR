@@ -1,5 +1,5 @@
 bengaliai-speech.zip
-.venv
+.conda
 examples
 test_mp3s
 train_mp3s
