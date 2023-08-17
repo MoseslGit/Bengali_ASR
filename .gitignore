@@ -1,0 +1,7 @@
+bengaliai-speech.zip
+.venv
+examples
+test_mp3s
+train_mp3s
+sample_submission.csv
+train.csv
