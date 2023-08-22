@@ -11,3 +11,4 @@ YellowKing_processor
 submission.csv
 train_metadata.csv
 NISQA_wavfiles.csv
+filtered_ids.csv
