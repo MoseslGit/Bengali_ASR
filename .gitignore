@@ -9,3 +9,5 @@ anaconda3*
 YellowKing_model
 YellowKing_processor
 submission.csv
+train_metadata.csv
+NISQA_wavfiles.csv
