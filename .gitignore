@@ -12,3 +12,10 @@ submission.csv
 train_metadata.csv
 NISQA_wavfiles.csv
 filtered_ids.csv
+valid_train_mp3s
+weights
+NISQA_lib.py
+NISQA_model.py
+run_predict.py
+__pycache__
+valid_train_wavs
