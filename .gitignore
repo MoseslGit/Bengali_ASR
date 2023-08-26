@@ -19,3 +19,4 @@ NISQA_model.py
 run_predict.py
 __pycache__
 valid_train_wavs
+train_wav_subsets
