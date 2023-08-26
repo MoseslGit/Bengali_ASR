@@ -19,7 +19,7 @@ NISQA_model.py
 run_predict.py
 __pycache__
 valid_train_wavs
-train_wav_subsets
+train_mp3_subsets
 full_train_wav_subsets
 .env
 poetry*
