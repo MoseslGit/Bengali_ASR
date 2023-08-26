@@ -20,3 +20,8 @@ run_predict.py
 __pycache__
 valid_train_wavs
 train_wav_subsets
+full_train_wav_subsets
+.env
+poetry*
+tests
+pyproject.toml
