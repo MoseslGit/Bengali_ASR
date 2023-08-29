@@ -27,3 +27,4 @@ tests
 pyproject.toml
 train_1_preprocessed_trimmed
 train_subset*
+finetune*
